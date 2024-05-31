@@ -7,15 +7,21 @@
 A highly motivated and enthusiastic Developmental Biology doctoral graduate. Skill sets include NGS data analysis and machine learning. Aspiring to be a computational biologist at a well-renowned research division.
 
 ---
-### Languages:
+<table>
+<tr><th>Languages:</th><th>OS:</th></tr>
+<tr><td>
+  
 | Python3 | R | JS | Bash | HTML |
 |----------|----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|
 
-### OS:
+</td><td>
+
 | Linux | Ubuntu | Windows | CentOS | Redhat |
 |----------|----------|----------|----------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+
+</td></tr> </table>
 
 <table>
 <tr><th>Python3 libraries:</th><th>Data Manipulation:</th></tr>
