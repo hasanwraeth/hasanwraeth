@@ -46,8 +46,9 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://singularityware.github.io/images/logo/logo.svg" title="Singularity" alt="Singularity" width="80" height="55"/>|
 
 </td><td>
-
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 
 </td></tr> </table>
 
@@ -58,7 +59,6 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hasanwraeth&show_icons=true&theme=vision-friendly-dark"> </p> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
   
 <!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Commits,Repositories,MultipleLang&theme=onedark"> </p> -->
 
