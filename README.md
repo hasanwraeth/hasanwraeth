@@ -70,8 +70,7 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
   
 </td><td>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)]
 </td></tr> </table>
 
 
