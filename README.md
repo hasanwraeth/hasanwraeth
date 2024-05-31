@@ -38,7 +38,7 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 </td></tr> </table>
 
 <table>
-<tr><th>Environments:</th><th>Views:</th></tr>
+<tr><th>Environments:</th><th>Stats:</th></tr>
 <tr><td>
 
 | Node.js | Git | Docker | Postman | Singularity|
