@@ -45,7 +45,6 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://singularityware.github.io/images/logo/logo.svg" title="Singularity" alt="Singularity" width="80" height="55"/>|
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=hasanwraeth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -55,11 +54,15 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hasanwraeth&show_icons=true&theme=vision-friendly-dark"> </p> -->
 
 <table>
-<tr><th>Languages:</th><th>OS:</th></tr>
+<tr><th>Languages:</th><th>Trophies:</th><th>Views:</th></tr>
 <tr><td>
 
  <p align="center"> <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
   
+</td><td>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </td><td>
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
