@@ -1,4 +1,4 @@
-### 🎤 You can call me: Hasan 
+### 🎤 Call me: Hasan 
 ### 🧑‍🔬 Current Role: Research Fellow @ CCHMC
 ### 👨‍🎓 Qualification: PhD in Molecular and Developmental Biology
 ### 📫 How to reach me: rezaha@mail.uc.edu
