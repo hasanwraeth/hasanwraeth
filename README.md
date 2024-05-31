@@ -5,7 +5,6 @@
 ### ℹ️ About Me:    
 A highly motivated and enthusiastic Developmental Biology doctoral graduate. Skill sets include NGS data analysis and machine learning. Aspiring to be a computational biologist at a well-renowned research division.
 
----
 <table>
 <tr><th>Languages:</th><th>OS:</th></tr>
 <tr><td>
@@ -51,8 +50,6 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 
 </td></tr> </table>
-
----
 
 <!--<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=hasanwraeth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
