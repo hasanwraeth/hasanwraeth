@@ -26,11 +26,9 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hasanwraeth&show_icons=true&theme=vision-friendly-dark"> </p> -->
- <p align="center"> <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
+ <p align="center"> <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
  
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/>
-</div>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 
 <!--
 **hasanwraeth/hasanwraeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
