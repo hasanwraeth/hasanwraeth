@@ -38,11 +38,20 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/>|
 
 </td></tr> </table>
-  
-### Environments:
+
+<table>
+<tr><th>Environments:</th><th>Views:</th></tr>
+<tr><td>
+
 | Node.js | Git | Docker | Postman | Singularity|
 |----------|----------|----------|----------|-----|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://singularityware.github.io/images/logo/logo.svg" title="Singularity" alt="Singularity" width="80" height="55"/>|
+
+</td><td>
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
+
+</td></tr> </table>
 
 ---
 
@@ -62,10 +71,6 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 </td><td>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</td><td>
-
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 
 </td></tr> </table>
 
