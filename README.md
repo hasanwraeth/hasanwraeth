@@ -28,9 +28,6 @@
   <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 <!--
 **hasanwraeth/hasanwraeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
