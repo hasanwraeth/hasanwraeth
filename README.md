@@ -70,9 +70,9 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
   
 </td><td>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)]
+ <p align="center"> <img width="400" height="200" src="https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark"> </p>
+ 
 </td></tr> </table>
-
 
 <!--
 **hasanwraeth/hasanwraeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
