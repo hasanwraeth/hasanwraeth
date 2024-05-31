@@ -1,6 +1,5 @@
 ### Hi there 👋
-### 🎤 You can call me: Hasan
-### 🧑‍🔬 Research Fellow @ CCHMC
+### 🎤 You can call me: Hasan ### 🧑‍🔬 Research Fellow @ CCHMC
 ### 👨‍🎓 PhD in Molecular and Developmental Biology
 ### 📫 How to reach me: rezaha@mail.uc.edu
 ### ℹ️ About Me:    
