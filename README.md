@@ -18,16 +18,16 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  |  ![](https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--<p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=hasanwraeth&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+</p>-->
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hasanwraeth&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>-->
+</p>
  
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/>
