@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### 🎤 You can call me: Hasan
-### 👨‍🎓 PhD in Molecular and Developmental Biology
 ### 🧑‍🔬 Research Fellow @ CCHMC
+### 👨‍🎓 PhD in Molecular and Developmental Biology
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
