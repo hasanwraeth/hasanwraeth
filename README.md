@@ -2,7 +2,7 @@
 ### 🧑‍🔬 Current Role: Research Fellow @ CCHMC
 ### 👨‍🎓 Qualification: PhD in Molecular and Developmental Biology
 ### 📫 How to reach me: rezaha@mail.uc.edu
-### ℹ️ About Me:    
+### ℹ️ About Me:    <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 A highly motivated and enthusiastic Developmental Biology doctoral graduate. Skill sets include NGS data analysis and machine learning. Aspiring to be a computational biologist at a well-renowned research division.
 
 <table>
@@ -48,7 +48,6 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 </td><td>
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 
 </td></tr> </table>
 
