@@ -66,11 +66,11 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 <tr><th>Languages:</th><th>Trophies:</th></tr>
 <tr><td>
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
   
 </td><td>
 
- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Commits,Repositories,MultipleLang,Stars&theme=onedark"> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=hasanwraeth&title=Commits,Repositories,MultipleLang&theme=onedark">
  
 </td></tr> </table>
 
