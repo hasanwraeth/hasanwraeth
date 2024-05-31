@@ -2,7 +2,7 @@
 ### 🧑‍🔬 Current Role: Research Fellow @ CCHMC
 ### 👨‍🎓 Qualification: PhD in Molecular and Developmental Biology
 ### 📫 How to reach me: rezaha@mail.uc.edu
-### ℹ️ About Me:    <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
+### ℹ️ About Me:    
 A highly motivated and enthusiastic Developmental Biology doctoral graduate. Skill sets include NGS data analysis and machine learning. Aspiring to be a computational biologist at a well-renowned research division.
 
 <table>
@@ -44,7 +44,7 @@ A highly motivated and enthusiastic Developmental Biology doctoral graduate. Ski
 | Node.js | Git | Docker | Postman | Singularity|
 |----------|----------|----------|----------|-----|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://singularityware.github.io/images/logo/logo.svg" title="Singularity" alt="Singularity" width="80" height="55"/>|
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasanwraeth&style=for-the-badge&color=orange" alt=""/> </p>
 </td><td>
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanwraeth&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark"> </p>
