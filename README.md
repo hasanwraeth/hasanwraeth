@@ -3,7 +3,7 @@
 ### 👨‍🎓 Qualification: PhD in Molecular and Developmental Biology
 ### 📫 How to reach me: rezaha@mail.uc.edu
 ### ℹ️ About Me:    
-A highly motivated and enthusiastic Developmental Biology doctoral graduate. Skill sets include NGS data analysis and machine learning. Aspiring to be a computational biologist at a well-renowned research division.
+A highly motivated and enthusiastic Developmental Biology doctoral graduate. Skill sets include NGS data analysis and machine learning. Aspiring to be a director of computational biology at a well-renowned research division.
 
 <table>
 <tr><th>Languages:</th><th>OS:</th></tr>
